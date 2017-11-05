@@ -1,0 +1,4 @@
+yowsup
+coinmarketcap
+requests
+requests-cache
